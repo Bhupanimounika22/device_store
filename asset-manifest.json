@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/device_store/static/css/main.307ebc85.css",
+    "main.js": "/device_store/static/js/main.93d1604e.js",
+    "static/js/453.50ced41b.chunk.js": "/device_store/static/js/453.50ced41b.chunk.js",
+    "static/media/apple-watch-8.png": "/device_store/static/media/apple-watch-8.2b7546e669726df4eec5.png",
+    "index.html": "/device_store/index.html",
+    "main.307ebc85.css.map": "/device_store/static/css/main.307ebc85.css.map",
+    "main.93d1604e.js.map": "/device_store/static/js/main.93d1604e.js.map",
+    "453.50ced41b.chunk.js.map": "/device_store/static/js/453.50ced41b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.307ebc85.css",
+    "static/js/main.93d1604e.js"
+  ]
+}
